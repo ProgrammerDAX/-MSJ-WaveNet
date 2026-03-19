@@ -1,9 +1,8 @@
 # <Project Title>
 
 This project is about  MSJ-WaveNet: A Multi-Scale J-invariant Wavelet Network for Self-Supervised 3D Seismic Data Interpolation
-The repository includes dataset descriptions, model architectures, and experimental configurations, which will be continuously updated.
 ---
-
+The repository includes dataset descriptions, model architectures, and experimental configurations, which will be continuously updated.
 ## 📂 Dataset Description
 
 The dataset used in this project originates from the following sources:
